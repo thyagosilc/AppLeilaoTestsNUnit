@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monp.Leilao", "Monp.Leilao\Monp.Leilao.csproj", "{90399ABB-8F6F-4D71-9C61-622FA6A269B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monp.Leilao.NUnitTests", "..\..\tests\NUnitTest.Leilao\Monp.Leilao.NUnitTests.csproj", "{5A16AC91-FC1A-4D0E-983D-A1F38EF31958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90399ABB-8F6F-4D71-9C61-622FA6A269B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90399ABB-8F6F-4D71-9C61-622FA6A269B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90399ABB-8F6F-4D71-9C61-622FA6A269B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90399ABB-8F6F-4D71-9C61-622FA6A269B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A16AC91-FC1A-4D0E-983D-A1F38EF31958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A16AC91-FC1A-4D0E-983D-A1F38EF31958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A16AC91-FC1A-4D0E-983D-A1F38EF31958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A16AC91-FC1A-4D0E-983D-A1F38EF31958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A1F94D-325B-4DD4-AD43-D1CC15DC887D}
+	EndGlobalSection
+EndGlobal
